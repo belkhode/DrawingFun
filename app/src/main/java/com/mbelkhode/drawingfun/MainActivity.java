@@ -137,6 +137,7 @@ public class MainActivity extends ActionBarActivity
      * ColorSelectionFragment. The result from ColorSelectionFragment is then passed to the
      * DrawingFragment to set the selected color.
      *
+     * @param color The color selected by the user
      */
     @Override
     public void onColorSelected(int color) {
@@ -153,6 +154,7 @@ public class MainActivity extends ActionBarActivity
      * AlertFragment. Based on the response from the AlertFragment, it is decided whether the
      * DrawingFragment should be called to erase all the contents.
      *
+     * @param isOk The response from the user. true if the user selected ok, false otherwise
      */
     @Override
     public void onResponseSelected(boolean isOk) {

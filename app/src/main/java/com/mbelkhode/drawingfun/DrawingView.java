@@ -22,7 +22,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * A view where the user can start drawing. Supports the following 4 apis to help with the drawing.
+ * A view where the user can start drawing. Supports the following 5 apis to help with the drawing.
  *
  *    1. setBrushMode - Sets the brush mode to enable drawing
  *    2. setEraseMode - Sets the eraser mode to enable erasing parts of the drawing

@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * A fragment with a view where the user can start drawing. Supports the following 4 apis to help
+ * A fragment with a view where the user can start drawing. Supports the following 5 apis to help
  * with the drawing.
  *
  *    1. setBrushMode - Sets the brush mode to enable drawing
