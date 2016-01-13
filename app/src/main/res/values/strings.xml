@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drawing Fun</string>
+    <string name="paint">Paint</string>
+    <string name="erase_question">Erase all?</string>
+    <string name="select_color">Select a color</string>
+    <string name="erase">Erase</string>
+    <string name="erase_all">Erase all</string>
+    <string name="brush">Brush</string>
+    <string name="save">Save drawing</string>
+</resources>

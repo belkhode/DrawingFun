@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mbelkhode.drawingfun.MainActivity">
+
+    <item
+        android:id="@+id/brush"
+        android:orderInCategory="100"
+        android:title="@string/brush"
+        android:icon="@drawable/ic_paint_brush"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/erase"
+        android:orderInCategory="200"
+        android:title="@string/erase"
+        android:icon="@drawable/ic_eraser"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/select_color"
+        android:orderInCategory="300"
+        android:title="@string/select_color"
+        android:icon="@drawable/ic_paint_color"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/erase_all"
+        android:orderInCategory="400"
+        android:title="@string/erase_all"
+        android:icon="@drawable/ic_erase_all"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/save"
+        android:orderInCategory="500"
+        android:title="@string/save"
+        android:icon="@drawable/ic_save_drawing"
+        app:showAsAction="ifRoom" />
+
+</menu>
