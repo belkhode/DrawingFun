@@ -22,3 +22,13 @@ Kids (babies and toddlers)
 What devices are supported?
 Android KitKat 4.4 or higher (minSdkVersion 19).
 
+Screenshot 1:
+
+
+![ScreenShot](https://github.com/belkhode/DrawingFun/blob/master/Drawing_fun_screenshot1.png)
+
+Screenshot 2:
+
+
+![ScreenShot](https://github.com/belkhode/DrawingFun/blob/master/Drawing_fun_screenshot2.png)
+
